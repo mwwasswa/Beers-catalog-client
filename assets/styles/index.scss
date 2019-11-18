@@ -1,1 +1,7 @@
 @import '~bootstrap/scss/bootstrap';
+
+.col-md-4 {
+  border: 1px solid black;
+  border-collapse: separate;
+  border-spacing: 15px;
+}
